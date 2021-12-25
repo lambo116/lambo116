@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @lambo116
+- 👀 I’m interested in ...
+Video Games , Drawing, Graphic Design, Pixel Art, Music, Storytelling, writing, Comics and Manga, Anime, Woodworking, Landscaping, Creating new things. 
+- 🌱 I’m currently learning ...
+Godot
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+lambo116@hotmail.com
+
+<!---
+lambo116/lambo116 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
